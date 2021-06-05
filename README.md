@@ -5,3 +5,23 @@ Did you know that giraffes sleep 4.6 hours a day? We humans need more than that.
 The program will determine the actual and ideal hours of sleep for each night of the last week.
 
 Finally, it will calculate, in hours, how far you are from your weekly sleep goal.
+
+## Installation
+
+Install the project locally
+```bash
+```
+
+## Usage
+
+
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
